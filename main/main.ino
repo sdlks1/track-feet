@@ -15,7 +15,7 @@ int btnSwitch[2] = {0, 0};
 void mapY_t(int value, int low_bound=497, int high_bound=499)
 
 int jx, jy, jb;
-
+  
 void setup() 
 {
   pinMode(motorF, OUTPUT);

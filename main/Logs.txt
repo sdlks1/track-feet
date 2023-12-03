@@ -1,0 +1,22 @@
+Project Log @ 2023.12.03
+
+| Software |
+1. Created Github Respository
+2. Setup Overall Structure
+3. Added Mapping Function for Testing Use (Only Controlling With Y-axis, With One Motor)
+    --> To Solve the Direct Mapping Problem ---- Solved
+
+-- Fill-Up --
+1. Mis-connected Joystick to Digital Pin (Should be Analog)
+2. Directly Mapping Joystick Read Value to PWM range ---- Unsolved
+3. Wanted to Use Button as Switch, Turning On and Off for Controlling
+    --> Solved, Used 2-element Array as Pair to do 2-Point Recording to Determine Button-Up
+
+------------------------------------------------------------
+| Hardware |
+1. Ordered Motors and Drivers
+
+-- Fill-up --
+1. Bought Arduino Pro-Micro (Leonardo Extension)
+2. Bought Joysticks
+3. Driver Short-Circuited
