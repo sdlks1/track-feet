@@ -15,6 +15,7 @@ Project Log @ 2023.12.03
 ------------------------------------------------------------
 | Hardware |
 1. Ordered Motors and Drivers
+2. Need to Buy Batteries ---- Unsolved
 
 -- Fill-up --
 1. Bought Arduino Pro-Micro (Leonardo Extension)
